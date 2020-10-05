@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "598493542560",
+    "firebase_url": "https://noteindia-3452f.firebaseio.com",
+    "project_id": "noteindia-3452f",
+    "storage_bucket": "noteindia-3452f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598493542560:android:19d0e7ed896f6895f131c5",
+        "android_client_info": {
+          "package_name": "com.amanpandey.noteindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598493542560-73eda5aa344et16ms200i26ktrrin55b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amanpandey.noteindia",
+            "certificate_hash": "049e5d40b8ee542cc8cfee17a8cf13f78af3ebc9"
+          }
+        },
+        {
+          "client_id": "598493542560-kpj3tbf73rpau4hf87da3s4ni3uh4jra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSJy_ps0m_0ip-N1bnJjocpxCuA9BdCxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598493542560-kpj3tbf73rpau4hf87da3s4ni3uh4jra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
